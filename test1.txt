@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Semyon Evgenievi
+=======
+Semyon Evgenie
+>>>>>>> newdev
